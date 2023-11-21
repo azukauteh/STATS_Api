@@ -2,7 +2,7 @@
 """
 dashboard_controller.py
 """
-from flask import jsonify
+from flask import Blueprint, jsonify
 from app.services.dashboard_service import DashboardService
 
 

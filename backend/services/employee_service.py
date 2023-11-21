@@ -3,7 +3,7 @@
 Contains employee_service.py
 """
 from app.models.employee_model import Employee
-from app import db
+from app.utils.database import db
 
 
 class EmployeeService:

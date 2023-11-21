@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """
-employee_controller.py
+employee_controller
 """
-from flask import request, jonify
-from app.models.employee_model import Employee
+from flask import Blueprint, jsonify, request
+from app.services.employee_service import EmployeeService
 
 
 class EmployeeController:
