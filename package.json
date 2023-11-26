@@ -1,0 +1,26 @@
+{
+  "name": "(stats_api)",
+  "version": "1.0.0",
+  "description": "Empowering Organizations with Comprehensive Employee Insights.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "\"\\\"\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://azukauteh: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@github.com/azukauteh/STATS_Api.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Azuka Uteh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azukauteh/STATS_Api/issues"
+  },
+  "homepage": "https://github.com/azukauteh/STATS_Api#readme"
+}

@@ -10,7 +10,7 @@ class EmployeeService:
     def get_employee_details(self, employee_id):
         employee = Employee.query.get(employee_id)
         if not employee:
-            return None  # Return None if the employee doesn't exist
+            return None  """ Return None if the employee doesn't exist"""
         return employee.to_dict()
 
     def create_employee(self, data):
