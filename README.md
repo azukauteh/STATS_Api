@@ -1,6 +1,6 @@
 ---                                                                             
 
-[Imgur](https://i.imgur.com/ZCfaGy9.jpg)
+<a href="https://imgur.com/ZCfaGy9"><img src="https://i.imgur.com/ZCfaGy9s.jpg" title="source: imgur.com" /></a>
 ---
 
 # STATS_API
