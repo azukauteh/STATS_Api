@@ -1,7 +1,4 @@
-// index.js
 
-/
-/ Assuming you have a root element in your HTML with id=
 const appRoot = document.getElementById('app');
 
 // Function to fetch data from the backend
